@@ -3,7 +3,7 @@ UI_20150317_000002	{@st43}Liste d'Attributs {/}
 UI_20150317_000003	{@st59}Fermer la Liste d'Attribut {/}
 UI_20150317_000004	{@st43}Apprendre les Attributs{/}
 UI_20150317_000005	{@st59}Fermer la Fenêtre d'Attribut{/}
-UI_20150317_000006	{@st41b}Funds{/}
+UI_20150317_000006	{@st41b}Revenus{/}
 UI_20150317_000007	Mes Exploits
 UI_20150317_000008	Classement Serveur
 UI_20150317_000009	{@st59}Un évènement inattendut est disponible.{/}
@@ -30,29 +30,29 @@ UI_20150317_000029	{@st41b}Enchère{/}
 UI_20150317_000030	{@st43b}Acheter Maintenant!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Paramètres de Permission{/}
 UI_20150317_000032	{@st45}Nom: %s{/}
-UI_20150317_000033	{@st45}Party Warehouse{/}
-UI_20150317_000034	{@st49}None
-UI_20150317_000035	{@st49}Store
-UI_20150317_000036	{@st49}Retrieve
+UI_20150317_000033	{@st45}Entrepôt de Groupe{/}
+UI_20150317_000034	{@st49}Aucun
+UI_20150317_000035	{@st49}Boutique
+UI_20150317_000036	{@st49}Récupérer
 UI_20150317_000037	{@st45}Survey{/}
-UI_20150317_000038	{@st49}Create
-UI_20150317_000039	{@st49}Delete
-UI_20150317_000040	{@st44}Save{/}
-UI_20150317_000041	{@st44}Cancel{/}
-UI_20150317_000042	{@st43}{s22}Hair Shop{/}
-UI_20150317_000043	{@st59}Previous Hairstyle{/}
-UI_20150317_000044	{@st59}Next Hairstyle{/}
-UI_20150317_000045	{@st41b} Change {s18} (100 iCoins required) {/}
-UI_20150317_000046	{@st59}Change to selected hairstyle.{/}
-UI_20150317_000047	{@st41}Cancel
-UI_20150317_000048	{@st43}Black Market{/}
-UI_20150317_000049	Name of Book
-UI_20150317_000050	{@St59}Stop reading{/}
-UI_20150317_000051	{@st59}Previous Page{/}
-UI_20150317_000052	{@st59}Next Page{/}
-UI_20150317_000053	{@st47}%s appeared!
+UI_20150317_000038	{@st49}Créer
+UI_20150317_000039	{@st49}Supprimer
+UI_20150317_000040	{@st44}Sauvegarder{/}
+UI_20150317_000041	{@st44}Annuler{/}
+UI_20150317_000042	{@st43}{s22}Boutique de Coiffure{/}
+UI_20150317_000043	{@st59}Coiffure Précédente{/}
+UI_20150317_000044	{@st59}Coiffure Suivante{/}
+UI_20150317_000045	{@st41b} Changer {s18} (100 iCoins requis) {/}
+UI_20150317_000046	{@st59}Changer pour la coiffure sélectionnée.{/}
+UI_20150317_000047	{@st41}Annuler
+UI_20150317_000048	{@st43}Marché Noir{/}
+UI_20150317_000049	Nom du Livre
+UI_20150317_000050	{@St59}Arrêter de Lire{/}
+UI_20150317_000051	{@st59}Page Précédente{/}
+UI_20150317_000052	{@st59}Page Suivante{/}
+UI_20150317_000053	{@st47}%s apparaît!
 UI_20150317_000054	{@st43}Score{/}
-UI_20150317_000055	Damage Received
+UI_20150317_000055	Dégâts Reçu
 UI_20150317_000056	Technique Bonus
 UI_20150317_000057	Evasion Bonus
 UI_20150317_000058	Clear Time
