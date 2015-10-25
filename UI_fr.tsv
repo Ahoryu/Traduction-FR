@@ -34,7 +34,7 @@ UI_20150317_000033	{@st45}Entrepôt de Groupe{/}
 UI_20150317_000034	{@st49}Aucun
 UI_20150317_000035	{@st49}Boutique
 UI_20150317_000036	{@st49}Récupérer
-UI_20150317_000037	{@st45}Survey{/}
+UI_20150317_000037	{@st45}Sondage{/}
 UI_20150317_000038	{@st49}Créer
 UI_20150317_000039	{@st49}Supprimer
 UI_20150317_000040	{@st44}Sauvegarder{/}
@@ -55,12 +55,12 @@ UI_20150317_000054	{@st43}Score{/}
 UI_20150317_000055	Dégâts Reçu
 UI_20150317_000056	Technique Bonus
 UI_20150317_000057	Evasion Bonus
-UI_20150317_000058	Clear Time
+UI_20150317_000058	Effacer le Décompte
 UI_20150317_000059	Score Total
 UI_20150317_000060	{@st42}Temps Écoulé
 UI_20150317_000061	10 minutes
 UI_20150317_000062	10 secondes
-UI_20150317_000063	{memo X}{@st44}Complete
+UI_20150317_000063	{memo X}{@st44}Complet
 UI_20150317_000064	{@st59}Fermer le Distributeur Automatique{/}
 UI_20150317_000065	{@st43}Distributeur Automatique de Boost
 UI_20150317_000066	Nom de Distributeur Automatique
